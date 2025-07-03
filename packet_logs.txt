@@ -1,0 +1,82 @@
+2025-07-03 17:05:52.546071 - Source: 13.78.111.198, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53178
+2025-07-03 17:05:53.152962 - Source: 13.78.111.198, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53179
+2025-07-03 17:05:54.990842 - Source: 13.78.111.198, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53178
+2025-07-03 17:05:54.993308 - Source: 13.78.111.198, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53179
+2025-07-03 17:06:00.748201 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 53023 -> 53
+2025-07-03 17:06:00.750444 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 56378 -> 53
+2025-07-03 17:06:00.752534 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 64519 -> 53
+2025-07-03 17:06:00.756546 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 51022 -> 53
+2025-07-03 17:06:00.759339 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 58109 -> 53
+2025-07-03 17:06:00.761104 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 62647 -> 53
+2025-07-03 17:06:01.160185 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 53023
+2025-07-03 17:06:01.163846 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 64519
+2025-07-03 17:06:01.167527 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 56378
+2025-07-03 17:06:01.169936 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 51022
+2025-07-03 17:06:01.172550 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 58109
+2025-07-03 17:06:01.176824 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 62647
+2025-07-03 17:06:01.538673 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:01.715467 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:01.717053 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:01.718682 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x16\x03\x01\x06\xfd\x01\x00\x06\xf9\x03\x03\xf0\xbd\xb2\x8d\xbfF\xf4\x17el\x7f5\xee:m\xcc\xd54\x15r\xf54\xc1\xaf*\nd\xd2\xce\x9c\xa1\t 0x\x03\x9f\x1aJ'
+2025-07-03 17:06:01.720718 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\t\x0c\n[\x95s\xa2\xedC\xc89\x11P\xf9pG+{\xcb_\xb7\x89\x1f\\~_\x1b\xaf\xf4j\xb35P\xb6\xb2\x16cA\x96E4J+h<|h\xcc2`'
+2025-07-03 17:06:01.794842 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443
+2025-07-03 17:06:01.806368 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:01.810814 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:01.813218 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\x16\x03\x03\x04\xba\x02\x00\x04\xb6\x03\x03m\xa7G\xaa\xb1\x12\xf4\xe6=\x06\x80\x86`\xdf\x12\x98\xc6\xd7\x93\x812H\x16v\xb0C8\xe2Zx\x90\x9b 0x\x03\x9f\x1aJ'
+2025-07-03 17:06:01.815080 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\xa8/\xe16\xdfD\x96\xdf\x99\x95\x8d\x88\xfa{X\x99\x89bj\x95[3\x0e\x96=\xdd\x0cQ\x8d\xfco\xc2*A\x1b7N_\xd3\x03\xa6\xc9\xb6\x1a\xdf\xcb\x89,\xdc*'
+2025-07-03 17:06:01.817037 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:02.038483 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b't\x0f9]y\x1c\xf6m\xd0\x82\x91\x81\xa7(\xe1\xc4!\xb2\xba,\x8c\xa7\x8c\xcd\x15\x10\xa8\nz\x03\xdd\xf6\x94V4H\xd2\xa68\x0er\xc3\xac\xd5\xf1\xce\x90\x9a\xcdm'
+2025-07-03 17:06:02.043398 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\xd9\xbb\xd9k~\xb6VI\xa0cl\xe5k\x80\xce\xcc\xa0b\xc9\x14\x1dm\x88R\xe7V\xc3\xec\xf3\x1fs\xd1\xe2J\xba\xbaP\x9b\xd5@,\x98A\x0c\x1d\xd1!\x0e\xcb\xf9'
+2025-07-03 17:06:02.046512 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'm.+\'\xa6c\x03\xe4>\x8e0\xa80s\xc3\xa7\xed\xf5\xe7\t\xee\x88\x9f\xde"\xc8J\x18&\xf6\xf6\x95\xdb\xc6\xc6\xc9\x9e2v\x85| <A\x86\xcf\x99\xe3(A'
+2025-07-03 17:06:02.048689 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184
+2025-07-03 17:06:02.050981 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:02.054020 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443
+2025-07-03 17:06:02.057978 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443, Payload: b'\x16\x03\x01\x06\xbd\x01\x00\x06\xb9\x03\x03ke\xf1\xa3S\xd9\x0b\xb8\\?e\xeeu@\xda\xd05\x18\xa2\xfd\xb7c\xbd\x89\xed\x7fF\xcaFUU\x9b \xee\xf8#ZoP'
+2025-07-03 17:06:02.060216 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443, Payload: b'p\x8d*6\xbev\x83h\x9a{\x06\xfbn\xaeq\x9e\xafg\xa7\x8bJH\x8fN\xb4\t}9-A\x92nyn,\x17G\x88[\xf2\xc9\xe9\xe9\x11s\x9f\x0e\xb5\xaa\xfb'
+2025-07-03 17:06:02.062190 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x14\x03\x03\x00\x01\x01\x17\x03\x03\x00?\xc0=\x8e\xc8M\x8b Jq\xb0\xd2\xa4lU\x19\x96j}\x001\xc0<9h\x9b\xa6[\x19Y*s\x1a\xed\x1e\xf4s\x85\x87\x83'
+2025-07-03 17:06:02.064064 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x17\x03\x03\x00W\x05\xcd\xf4\x87\xf7s\xfa\x95d\xb5\x86>X\x85\x94\x0c\x9e\t\xd4\xf4\xa0\xcd\xa5\xb5\x1c\x11\\Q\xcc"I\xd8\xe9\x96\x13v\x14\x13\xc8\x96/QD\nH'
+2025-07-03 17:06:02.066596 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x17\x03\x03\x00\xe80Q3\xd7\xa1`+\xd6\xec\x80Nq\x1a\xdd\xc9\x1dT\x08\xd4\xde\xa2\xfd\xa8U\xc9g\xf1\x93O\x11k\xa7\x00\xf5\x12\xda\xb0^s\x9b\xad\xc6\xd2\x02\xa0'
+2025-07-03 17:06:02.069084 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b"\x17\x03\x03\x07\xe6m\xb8\x1d\xb4.\x0e0\xdf\xbb\x88\x14p\x88\x94\xfa\xfb\x07\x81i\x8d\xe6\xcf\x0e'\xa1P\x00\tC \xcdt\x9c\xf3\xaf\x98\xad\xa9\x1cj\xcc\x9d\td\xa9"
+2025-07-03 17:06:02.071718 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\xd5\x97K\xb6\xa58m\x1e\x86I\x05\xee:W\xb7\xf6;\xf4i\xfc\x97^kx\x12S\tt\xdeD\x85?\xc2\xc0>\xcc\xa6\xdc\xb6\xd8\t&\xc3\xad\x96V\xf0p\xf3\xb8'
+2025-07-03 17:06:02.369966 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\x17\x03\x03\x03\x87\xde\xbb\x98\x1b\xf6\xc8A_\xad\xcfW\x85\xaa4\xb9\x08}\x957\x14fB&\xd1\xe9"\xf8@\xfa\xcd\xae\xa3b\xa4U\x06\xc2\x9c\xef\xe1\xbb\xd3\xf2Q\x17'
+2025-07-03 17:06:02.371884 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\x17\x03\x03\x00\x1aq\xed\x06\xba\x17*n\x9c=}\x02:\xddg\xafb\xd5\xc6\x97\xd0\x93\xca/\xac\xce:'
+2025-07-03 17:06:02.373521 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:02.374918 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184
+2025-07-03 17:06:02.376985 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:02.379794 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184
+2025-07-03 17:06:02.381792 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184, Payload: b'\x16\x03\x03\x04\xba\x02\x00\x04\xb6\x03\x03\\\x8di\xbd\x987S\x06\x11N\x85\x9d\xe6\xa2^\xd4K\xf42\xcfk\xb1MH(\xc43\x95l\x94\xc8\x10 \xee\xf8#ZoP'
+2025-07-03 17:06:02.384479 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184, Payload: b'\xb3\x1fZ\x15\x08\x01B1\xde\x14\x8cg\xd1\x9a\xbd{\xa1\xa4\xa7\x12Q\xc3\xdb\xc2\xe6\xe93\xff\x85\xd1\x80\x116\xb2\x11T\xecY\x8d\xbf#J\x83zRZ\x0cr\x8aP'
+2025-07-03 17:06:02.386044 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184, Payload: b'\xfd\x0c/\x19\x8fAV\x8f\\F\xfd\xf4\x1e\x1a\t\xe3K\xf4PfQ8+\x97\xa8R\x96\xc1\x80v|\xbbCWQ\xce\xf09w\xc0\xd7E\xa9B\xf1T/\xc6hz'
+2025-07-03 17:06:02.387894 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184, Payload: b'\x80B\xff\x87\xc4I\x8fN\xab\x9f- q\xe1\x0en\xc5\xec\xb7\xc4\x9a\t\xa7\xf0}\x13\xff\xf3\xa7\xd0S/\xb4J\xfb\x00\xcc\xec\xfb\xb3\xd7\x19\xa79\xfe$\xdb"[\x1f'
+2025-07-03 17:06:02.389393 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184, Payload: b"\x0bc\x17U\xc0\xc3\x93$e}\x9b=\xb1\xf2-\xd7\xde\xcd\xe6\x05\xb4\xf0*\xf2\x96\x1b]\xda'=\x9c\xa0\xf2P\x13\xa0h\x95\x84\xaf\xf7\xf1\x06\xac\xd7{\xbb\xe72\x17"
+2025-07-03 17:06:02.395817 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\x17\x03\x03\x02I\xd5D\x1f\xea\x93w\xf1g\xa3\xdba\x9c\x8c\xb9\x11V6"\xe9\xd48\xb3\x97\xd8r\xe5\x80\xd4\x0e\xe4\xa9|\x8f\xc4\x939R\x15$\xdaW2\xa5\x06F'
+2025-07-03 17:06:02.399547 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\x17\x03\x03\x00\x1aX\x8f;\x1eS\x96=\xcc\x16\x92\r\xf1\x9b\x8cP\xe6w4K\x02~_\xc3O\xbb\xe3'
+2025-07-03 17:06:02.401334 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183, Payload: b'\x17\x03\x03\x00"wQ\xf2\xc4p\x8b \x17\xfdx\xc4\x1b\xf0\xbe\xdb\xcb\xe9\x7f2\xef\xba\xb9\xfb+\xdcU\xad\x81\x91\xf3\xfb\xd7l5'
+2025-07-03 17:06:02.402730 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443
+2025-07-03 17:06:02.404221 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443
+2025-07-03 17:06:02.406801 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:02.411325 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443, Payload: b'\x14\x03\x03\x00\x01\x01\x17\x03\x03\x00?\x827+@X\x0b\xba\x0b\xe0\xef\xa9~c\xe8$a\xe6H\xe4p\xd9\x12\xb6\xb8\xf2"\x8b\x11X\x19\xfb\xce^\xb0\xae\xcc\xb8\xa1u'
+2025-07-03 17:06:02.414554 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x17\x03\x03\x00\x1a\xe2\xb6\xc0p\x0e\xdf\xc8`\xc9\xfc\x96<-m\xbbV$\xfb\x04\xcfE\xd10X\x8d\xdf'
+2025-07-03 17:06:02.416577 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x17\x03\x03\x00"3P\xe4/\x1a\xd0u\x8e\x85\xe7\xd3\xf4\xa43m0QE\xa4\xaf]\xde}\x13\xfe\xb3\xc1\xaa\x1b\x96\x9c\xa22\xcd'
+2025-07-03 17:06:02.418224 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x17\x03\x03\x00\x1e\x9d`\x9e\xfb\x8a\xfeW_\x8eT\x05A\x94\x0fZ\x0e\x8f)\xea\xa5\x8a\x1c\xcb\xf6\xcac\xe6\xc1\x9e('
+2025-07-03 17:06:02.855212 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443, Payload: b'\x17\x03\x03\x00\x1a\xe2\xb6\xc0p\x0e\xdf\xc8`\xc9\xfc\x96<-m\xbbV$\xfb\x04\xcfE\xd10X\x8d\xdf\x17\x03\x03\x00"3P\xe4/\x1a\xd0u\x8e\x85\xe7\xd3\xf4\xa43'
+2025-07-03 17:06:02.857010 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:02.859129 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:02.861069 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184, Payload: b'\x17\x03\x03\x03\x87\x1b\xbe\x9e\x8b\x9f\xf1\xee\x1f\x11&\xb3h\xe1Q\x18\xe6\r\\>\xacM\x99R\xef\xe6j\xef.\x17\xa1?\xbe\xf8\x83h\x1fcY\x83(o\xf7\xdb\xb8\xf6'
+2025-07-03 17:06:02.905713 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443
+2025-07-03 17:06:03.026832 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:04.077821 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443
+2025-07-03 17:06:04.079509 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:04.165128 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53183
+2025-07-03 17:06:04.167130 - Source: 192.178.177.94, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53184
+2025-07-03 17:06:04.170428 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53183 -> 443
+2025-07-03 17:06:04.174414 - Source: 192.168.67.205, Destination: 192.178.177.94, Protocol: 6, TCP Port: 53184 -> 443
+2025-07-03 17:06:07.733694 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 65037 -> 53
+2025-07-03 17:06:07.743003 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 62489 -> 53
+2025-07-03 17:06:07.752208 - Source: 192.168.67.205, Destination: 192.168.67.212, Protocol: 17, UDP Port: 49665 -> 53
+2025-07-03 17:06:08.612363 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 65037
+2025-07-03 17:06:08.614961 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 62489
+2025-07-03 17:06:08.616975 - Source: 192.168.67.212, Destination: 192.168.67.205, Protocol: 17, UDP Port: 53 -> 49665
+2025-07-03 17:06:09.188684 - Source: 192.168.67.205, Destination: 150.171.28.11, Protocol: 6, TCP Port: 53187 -> 443
+2025-07-03 17:06:09.360190 - Source: 150.171.28.11, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53187
+2025-07-03 17:06:09.743902 - Source: 150.171.28.11, Destination: 192.168.67.205, Protocol: 6, TCP Port: 443 -> 53187
